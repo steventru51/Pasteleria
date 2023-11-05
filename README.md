@@ -1,4 +1,5 @@
 # Pasteleria
 Sitio Web responsive HTML-CSS-JS para pasteleria.
+![ImmagineSitio](https://github.com/steventru51/Pasteleria/assets/57667394/a72fff39-b7e2-4ada-b4ab-6e042cb35ba7)
 
-![ImmagineSitio](https://github.com/steventru51/Pasteleria/assets/57667394/7e473a3b-bf95-4144-9064-97651ee20f2f)
+
